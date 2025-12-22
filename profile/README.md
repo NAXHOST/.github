@@ -6,8 +6,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.naxhost.comg">
-    <img src="https://client.naxhost.com/assets/img/logo.png" />
+  <a href="https://www.naxhost.com">
+    <img src="https://client.naxhost.com/assets/img/logo.png" alt="Logo">
   </a>
 </p>
 
@@ -15,10 +15,15 @@
 <p>NAXHOST Support is Always Available and We are Offering 99.9% Uptime and 15 Days Money Back Guarantee.</p>
 <br>
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.naxhost.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/NAXHOST)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-03aa1f?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/8801612779993)
-[![X Badge](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/NAXHOST)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@NAXHOST)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/naxhost)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/naxhost)
+[![Website](https://img.shields.io/badge/Website-0C1BAD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.naxhost.com)
+[![Client Area](https://img.shields.io/badge/Client%20Area-DA5B14?style=for-the-badge&logo=google-chrome&logoColor=white)](https://client.naxhost.com)
+[![Contact](https://img.shields.io/badge/Contact-38BA41?style=for-the-badge&logo=gmail&logoColor=white)](https://www.naxhost.com/contact.html)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.naxhost.com)
+<br>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&style=plastic)](https://www.facebook.com/NAXHOST)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=plastic)](https://wa.me/8801612779993)
+[![X](https://img.shields.io/badge/X-000000?logo=x&style=plastic)](https://x.com/NAXHOST)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=plastic)](https://www.youtube.com/@NAXHOST)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-in&logoColor=white&style=plastic)](https://www.linkedin.com/company/naxhost)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=plastic)](https://www.instagram.com/naxhost)
